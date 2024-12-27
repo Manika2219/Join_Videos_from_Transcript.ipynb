@@ -34,7 +34,7 @@ System Requirements: FFmpeg must be installed for video processing.
 # How It Works
 1)Video Download: Users provide YouTube URLs, and the script downloads the videos using yt-dlp.  
 2)Transcript Generation: The whisper library generates a detailed transcript of the audio from each video.   
-3)Segment Extraction: Users input desired text phrases, and the script identifies the closest matching segments using fuzzy matching. Start and end timestamps are displayed for confirmation.
+3)Segment Extraction: Users input desired text phrases, and the script identifies the closest matching segments using fuzzy matching. Start and end timestamps are displayed for confirmation.             
 4)Video Concatenation: Extracted video segments are merged into a single output file (final_video.mp4) using moviepy.
 
 
