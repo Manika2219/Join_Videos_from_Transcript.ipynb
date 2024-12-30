@@ -1,4 +1,4 @@
-# Join_Videos_from_Transcript.ipynb
+# Automated YouTube Video Segment Extractor and Merger Using Transcripts
 This Python project simplifies the process of creating a single video from selected portions of multiple YouTube videos. Designed with accuracy and user convenience in mind, the script automates video downloading, transcript generation, and precise segment extraction based on user-defined text inputs. By leveraging advanced libraries such as yt-dlp for video downloads, whisper for speech-to-text transcription, and moviepy for video editing, the project offers a seamless and efficient workflow.
 
 
